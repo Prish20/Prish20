@@ -57,7 +57,7 @@ I'm always excited to work on new projects that challenge me and allow me to con
 
 - [Twitter](https://twitter.com/christadrian_)
 - [LinkedIn](https://www.linkedin.com/in/christadrian-sanya-887189134/)
-- [contact@christadriansanya.com](mailto:contact@christadriansanya.com)
+- [contact@christadriansanya.me](mailto:contact@christadriansanya.me)
 
 ---
 

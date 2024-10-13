@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Christadrian Sanya
+### 👋 Hi there! I'm Christadrian
 
 [![Twitter: christadrian](https://img.shields.io/twitter/follow/christadrian_?style=social)](https://twitter.com/christadrian_)
 [![GitHub christadrian](https://img.shields.io/github/followers/Prish20?label=follow&style=social)](https://github.com/Prish20)

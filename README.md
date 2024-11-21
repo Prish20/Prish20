@@ -25,11 +25,15 @@ I'm a Full Stack JavaScript Developer with a passion for creating web and mobile
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1C1E24?style=for-the-badge&logo=google-cloud&logoColor=#4285F4)](https://cloud.google.com/)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
+![Appwrite](https://img.shields.io/badge/appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23404d59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
 ## 🎯 Current Focus
 

@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer with a passion for creating web and mobile applications. As an ALX trained Full Stack Software Engineer, I bring a unique blend of technical expertise and creative problem-solving to every project.
+I'm a Full Stack Developer with a passion for creating web and mobile applications. As an ALX trained Software Engineer, I bring a unique blend of technical expertise and creative problem-solving to every project.
 
 - Open to collaborations on team projects and open-source initiatives
 - Technical writer sharing knowledge with the community
@@ -46,9 +46,15 @@ I'm a Full Stack Developer with a passion for creating web and mobile applicatio
 
 I'm always excited to work on new projects that challenge me and allow me to contribute my skills and creativity. If you have an interesting project or are looking for a team member, let's connect!
 
-## 📈 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prish20&theme=radical&hide_border=false&v=1)](https://github.com/Prish20)<br/>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/prish20"><img src="https://github-readme-stats.vercel.app/api?username=prish20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prish20's GitHub stats" /></a>
+
+<a href="http://www.github.com/prish20"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prish20&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+#[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prish20&theme=radical&hide_border=false&v=1)](https://github.com/Prish20)<br/>
 
 ## 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=christadrian_&theme=github_dark)

@@ -53,9 +53,6 @@ I'm always excited to work on new projects that challenge me and allow me to con
 
 <a href="http://www.github.com/prish20"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prish20&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-#[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prish20&theme=radical&hide_border=false&v=1)](https://github.com/Prish20)<br/>
-
 ## 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=christadrian_&theme=github_dark)
 

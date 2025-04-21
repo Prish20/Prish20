@@ -48,26 +48,42 @@ I'm always excited to work on new projects that challenge me and allow me to con
 
 
 
-
-## 🚀 GitHub Activity & Stats
-
+## 🚀 Christadrian Sanya's GitHub Activity
 
 <p align="center">
-  <!-- GitHub Stats (includes private contributions if token is used on your own profile repo) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=prish20&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="200"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prish20&langs_count=10&layout=compact&theme=radical" alt="Top Languages" height="200"/> -->
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-azure-zeta-35.vercel.app/api?username=prish20&show_icons=true&count_private=true&include_all_commits=true&hide=stars&hide_title=false&theme=radical&custom_title=GitHub%20Stats%20Overview" height="200" />
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prish20&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prish20&theme=radical&hide_border=true&fire=ff5f6d&ring=00f5d4&currStreakLabel=ffd166&background=1c1917" height="200"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Graph (Activity Graph) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prish20&theme=github-compact&area=true&color=ffffff&line=22d3ee&point=ffffff&hide_border=true&bg_color=1c1917" alt="GitHub Activity Graph" />
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prish20&theme=github-compact&area=true&bg_color=1c1917&color=ffffff&line=22d3ee&point=ffffff&hide_border=true" />
 </p>
 
+---
+
+## 🏆 Christadrian Sanya's GitHub Stats Summary
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-1200+-blue?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-61-blueviolet?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues%20Created-0-inactive?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars%20This%20Year-2-yellow?style=flat-square&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grade-B--lightgrey?style=flat-square&logo=progress&logoColor=white" />
+</div>
+
+---
+
+## ⏱️ Weekly Coding Hours (via WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adriansanya&theme=radical&layout=compact&hide_title=false&range=last_7_days" height="200" />
+</p>
 
 
 

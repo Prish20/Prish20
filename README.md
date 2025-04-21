@@ -49,7 +49,27 @@ I'm always excited to work on new projects that challenge me and allow me to con
 
 
 
-<a href="http://www.github.com/prish20"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prish20&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🚀 GitHub Activity & Stats
+
+
+<p align="center">
+  <!-- GitHub Stats (includes private contributions if token is used on your own profile repo) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=prish20&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="200"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prish20&langs_count=10&layout=compact&theme=radical" alt="Top Languages" height="200"/> -->
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prish20&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Graph (Activity Graph) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prish20&theme=github-compact&area=true&color=ffffff&line=22d3ee&point=ffffff&hide_border=true&bg_color=1c1917" alt="GitHub Activity Graph" />
+</p>
+
+
+
 
 ## 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=christadrian_&theme=github_dark)
